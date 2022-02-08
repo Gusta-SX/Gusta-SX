@@ -27,6 +27,7 @@
 <div align="center">
   <a href="https://github.com/Gusta-SX">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gusta-SX&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoSXAV&layout=compact&theme=tokyonight" />
 </div>
   
 <!---
