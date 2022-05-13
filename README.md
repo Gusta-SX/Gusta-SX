@@ -3,6 +3,8 @@
 - I'm currently pursuing a degree in Systems Analysis and Development.
 - I am interested in coding websites and applications and always seek to learn new languages and technologies.
 
+- Portfólio(https://gusta-sx.netlify.app/)
+
 ![Gmail](https://img.shields.io/badge/gusta.dsx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-xavier-04a2b8218/)
 
